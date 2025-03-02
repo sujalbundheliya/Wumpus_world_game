@@ -49,8 +49,8 @@ This project is an implementation of the classic Wumpus World game, enhanced wit
 1. **Clone the repository:**
 
    ```bash
-  git clone https://github.com/sujalbundheliya/Wumpus_world_game.git
-  cd Wumpus_world_game
+   git clone https://github.com/sujalbundheliya/Wumpus_world_game.git
+   cd Wumpus_world_game
 
 
 2. Set Up a Virtual Environment (Recommended):
