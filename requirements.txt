@@ -1,0 +1,5 @@
+# requirements.txt
+# This file lists all the non-standard libraries required for the Wumpus World Game.
+# Note: Tkinter is included in standard Python installations, so no separate installation is required.
+
+matplotlib>=3.0.0
